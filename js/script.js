@@ -18,5 +18,5 @@ searchbutton.addEventListener('click', search, false);
 
 function search() {
 	var query = searchbox.value;
-	window.location = 'https://duckduckgo.com/?q=' + query;
+	window.location = 'https://google.com.br/?q=' + query;
 }
